@@ -1,0 +1,24 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shasherazi/jest-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shasherazi/jest-practice/issues"
+  },
+  "homepage": "https://github.com/shasherazi/jest-practice#readme",
+  "dependencies": {
+    "jest": "^29.4.0"
+  }
+}
