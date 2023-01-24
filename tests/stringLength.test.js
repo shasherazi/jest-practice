@@ -5,7 +5,5 @@ test('Length of a string', () => {
 });
 
 test('Length of a string with empty string', () => {
-  expect(() => {
-    stringLength('');
-  }).toThrow();
+  expect(() => stringLength('')).toThrow('abc');
 });
